@@ -1,5 +1,5 @@
 # Borke-Cogs
-This is my repository for Red-DiscordBot which includes all my garbage co
+This is my repository for Red-DiscordBot which includes all my garbage cogs!
 
 Borke Cogs:
   CreditClaim - Looking for something like Nadeko's credit system? Get this cog and get the best of both worlds!
